@@ -875,3 +875,4 @@ client.on("message", message => {
 
 
 client.login(process.env.token);
+client.login("NzU3MzQ2MzA2ODI0ODYzODY1.X2fDtg.cP3iMCFAV_DBKWXkZFvbyf_kHSI");
